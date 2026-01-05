@@ -1,0 +1,12 @@
+start poopuranotonod.vbs
+start poopuranotonod.vbs
+start poopuranotonod.vbs
+start poopuranotonod.vbs
+start poopuranotonod.vbs
+start poopuranotonod.vbs
+start shake.exe
+start rgb.exe
+start squares.exe
+start IconHell.exe
+start danilosecagou.exe
+start elipse.exe
